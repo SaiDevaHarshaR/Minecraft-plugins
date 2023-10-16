@@ -1,0 +1,7 @@
+name: GodModePlugin
+version: 1.0
+main: iron_blade.plugin.GodModePlugin
+commands:
+  god:
+    description: Toggle God mode
+    usage: /god
